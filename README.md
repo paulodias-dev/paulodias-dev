@@ -1,8 +1,12 @@
-Um pouco sobre mim, sou programador web de Aracaju-se, e trabalho com desenvolvimento de sistemas e sites. Atendo clientes de toda a região de Sergipe, e do Brasil.
+Olá, meu nome é Paulo Roberto, e sou um programador com 10 anos de experiência em desenvolvimento de web. Comecei a estudar programação como hobby em 2011, e desde então, tenho me dedicado a aprender novas tecnologias e aprimorar minhas habilidades como desenvolvedor.
 
-Trabalho na área de programação desde 2014. Iniciei como aprendiz de PHP e hoje considero que conheço uma ampla gama de estrutura de HTML, HTML5, CSS, CSS3, JavaScript, jQuery, Ajax, PHP, MySQL. Tenho conhecimentos básicos em Bootstrap, Programação Orientada a Objetos. Até o momento, criei sistemas nos quais sou muito grato, pois tive que encarar inúmeros desafios e resolver grandes problemas que me ajudaram a ser o profissional que sou.
+Hoje, trabalho com uma ampla gama de tecnologias de desenvolvimento, incluindo estruturas de HTML, CSS, JavaScript, jQuery, Ajax, PHP, MySQL, Laravel, Git, Bootstrap e SVN. Essas habilidades me permitem criar soluções personalizadas para atender às necessidades específicas de cada projeto.
 
-Entre em contato, será um prazer entregar a melhor solução para você. Conheça alguns clientes que acreditaram no meu trabalho.
+Ao longo da minha carreira, tive a oportunidade de enfrentar muitos desafios e resolver problemas complexos em diversos projetos. Essas experiências me ajudaram a desenvolver minha capacidade de solucionar problemas e me tornar um profissional mais forte e confiante.
+
+Estou sempre buscando aprender novas tecnologias e acompanhar as tendências do mercado para oferecer aos meus clientes soluções inovadoras e de alta qualidade. Além disso, tenho habilidades em comunicação e colaboração, o que me permite trabalhar efetivamente em equipe e com clientes.
+
+Estou ansioso para continuar a crescer como desenvolvedor e contribuir para o sucesso dos projetos em que trabalho. Sou grato pelas oportunidades que tive até agora na minha carreira e estou animado para o que o futuro me reserva.
 
 - (79) 9 8129-1760
 
