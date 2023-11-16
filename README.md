@@ -1,4 +1,4 @@
-Olá, meu nome é Paulo Roberto, e sou um programador com 10 anos de experiência em desenvolvimento de web. Comecei a estudar programação como hobby em 2011, e desde então, tenho me dedicado a aprender novas tecnologias e aprimorar minhas habilidades como desenvolvedor.
+Olá, meu nome é Paulo Roberto, e sou um programador com anos experiência em desenvolvimento de web. Comecei a estudar programação como hobby em 2011, e desde então, tenho me dedicado a aprender novas tecnologias e aprimorar minhas habilidades como desenvolvedor.
 
 Hoje, trabalho com uma ampla gama de tecnologias de desenvolvimento, incluindo estruturas de HTML, CSS, JavaScript, jQuery, Ajax, PHP, MySQL, Laravel, Git, Bootstrap e SVN. Essas habilidades me permitem criar soluções personalizadas para atender às necessidades específicas de cada projeto.
 
